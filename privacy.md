@@ -119,8 +119,8 @@ https://www.apple.com/jp/legal/privacy/
 本アプリまたは本ポリシーに関するお問い合わせ、情報の削除依頼は、以下の連絡先までお願いいたします。
 
 アプリ名：今日しるべ
-開発者名：2026 Naoki Manzen  
-メールアドレス：hirosak9@gmail.com
+開発者名：　2026 Naoki Manzen  
+メールアドレス：　hirosak9@gmail.com
 
 ## プライバシーポリシーページの提供
 
